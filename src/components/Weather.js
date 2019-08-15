@@ -55,7 +55,7 @@ export default class Weather extends React.Component {
 	apiRequest(city, country) {
 		var today     = this.getDates();
 		var next7days = this.getDates(7, 'next');
-		var url       = config.apiUrl + "city=walsall&country=" + country + "&from_date=" + today + "&to_date="+ next7days;
+		var url       = config.apiUrl + "city="+ city +"&country=" + country + "&from_date=" + today + "&to_date="+ next7days;
 		fetch(url)
 				.then(res => res.json())
 				.then(
