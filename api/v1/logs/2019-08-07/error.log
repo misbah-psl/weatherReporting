@@ -1,0 +1,86 @@
+
+
+2019-08-07 11:30:24, 
+DATA: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column \'birmingham\' in \'where clause\''
+
+2019-08-07 11:31:16, 
+DATA: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column \'birmingham\' in \'where clause\''
+
+2019-08-07 11:31:50, 
+DATA: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column \'birmingham\' in \'where clause\''
+
+2019-08-07 11:32:29, 
+DATA: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column \'w.location\' in \'where clause\''
+
+2019-08-07 11:32:45, 
+DATA: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column \'w.location\' in \'where clause\''
+
+2019-08-07 11:38:16, 
+DATA: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column \'w.location\' in \'where clause\''
+
+2019-08-07 11:38:42, 
+DATA: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column \'w.location\' in \'where clause\''
+
+2019-08-07 11:39:09, 
+DATA: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column \'w.location\' in \'where clause\''
+
+2019-08-07 11:40:56, 
+DATA: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column \'w.location\' in \'where clause\''
+
+2019-08-07 11:41:31, 
+DATA: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column \'w.location\' in \'where clause\''
+
+2019-08-07 11:41:59, 
+DATA: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column \'w.location\' in \'where clause\''
+
+2019-08-07 11:42:36, 
+DATA: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column \'w.locationId\' in \'on clause\''
+
+2019-08-07 11:42:37, 
+DATA: 'SQLSTATE[42S22]: Column not found: 1054 Unknown column \'w.locationId\' in \'on clause\''
+
+2019-08-07 13:27:43, 
+DATA: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'date\',
+				min_temp,
+				max_temp,
+				min_status,
+			    max_status,
+			 \' at line 2'
+
+2019-08-07 13:28:01, 
+DATA: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'date\',
+				min_temp,
+				max_temp,
+				min_status,
+			    max_status,
+			 \' at line 2'
+
+2019-08-07 13:28:24, 
+DATA: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'date\',
+				min_temp,
+				max_temp,
+				min_status,
+			    max_status,
+			 \' at line 2'
+
+2019-08-07 13:28:37, 
+DATA: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'date\',
+				min_temp,
+				max_temp,
+				min_status,
+			    max_status,
+			 \' at line 2'
+
+2019-08-07 13:29:05, 
+DATA: 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'\'date\',
+				min_temp,
+				max_temp,
+				min_status,
+			    max_status,
+			 \' at line 2'
+
+2019-08-07 13:30:31, 
+DATA: 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry \'2019-08-08\' for key \'date\''
+
+2019-08-07 13:33:08, 
+DATA: 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry \'2019-08-08\' for key \'date\''
